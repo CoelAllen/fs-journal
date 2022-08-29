@@ -63,11 +63,11 @@ font-weight
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-:flex makes elements grow or shrink to fit the space available
+:flex makes elements move divs around in a grid system.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-Box-sizing like width, height, max-width, min-height, etc. 
+Box-sizing like width, height, max-width, min-height, etc. Also padding and margin can affect the size.
 ```
