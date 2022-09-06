@@ -71,7 +71,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 <!-- enter you answer in the space below -->
 
 ```
-i++, the increment
+- i++, the increment
 ```
 
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
